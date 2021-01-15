@@ -1,0 +1,89 @@
+.body-background{
+    font-family: 'Roboto', sans-serif;
+}
+.nav-background-color{
+    background-color: #FFF9F4;
+}
+.cover-item{
+    background-color: #FFF9F4;
+    height: 670px;
+}
+.cover-item img{
+    width: 75%;
+}
+.header-title1{
+    font-family: 'Bebas Neue', cursive;
+    margin: 0;
+    color:tomato ;
+    font-size: 80px;
+}
+.header-title2{
+    font-family: 'Bebas Neue', cursive;
+    margin: 0;
+    color: #363958;
+    font-size: 80px;
+}
+.section-title{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 50px;
+    color:#363958 ;
+}
+.card-style{
+    border-radius: 20px;
+}
+.card-name{
+    color:#363958 ;
+    font-weight: bold;
+}
+.card-footer{
+    display:flex;
+    background-color: white;
+}
+.card-btn{
+    margin-left: 160px;
+}
+.price{
+    font-size: 25px;
+    font-weight: bold;
+    color: tomato;
+}
+.card img{
+    height: 350px;
+    background-color: white;
+}
+.card-footer{
+    background-color: white;
+}
+.footer-img{
+    width: 100%;
+}
+.icon{
+    width: 20%;
+    padding: 10px;
+}
+.footer-item{
+    height: 300px;
+    background-color:#FFF9F4 ;
+    border-radius: 10px;
+}
+.footer-item h1{
+    color:#363958;
+}
+.footer-item h5{
+    color: darkgrey;
+    font-size: small;
+}
+p{
+    color: dimgray;
+    font-weight: none;
+}
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightSalmon, tomato );
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+}
+
+
